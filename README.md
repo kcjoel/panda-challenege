@@ -70,6 +70,6 @@ Include the following:
 - Create a table that breaks down school performance based on average spending ranges (per student).
 
 ### Scores by School Size:
-- Do the above for school size
+-Do the above for school size
 ### Scores by School Type
 - Do the above for school type
